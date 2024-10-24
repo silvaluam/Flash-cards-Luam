@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
-    'prgunta',
-    'Resposta'
+    'Geografia',
+    'Qual satélite natural da terra?',
+    'Lua'
 )
 
 criaCartao(
-    'Categoria',
-    'prgunta',
-    'Resposta'
+    'Conhecimento Geral',
+    'O que se comemora no feriado do dia 21 de abril no Brasil?',
+    'Tiradentes'
 )
 
 criaCartao(
-    'Categoria',
-    'prgunta',
-    'Resposta'
+    'Geografia',
+    'Qual o monumento famoso pela sua inclinação?',
+    'Torre de Pisa'
 )
 
 criaCartao(
-    'Categoria',
-    'prgunta',
-    'Resposta'
+    'ciencias ',
+    'Quantos ossos temos em nossos corpos?',
+    '206'
 )
